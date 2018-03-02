@@ -2,9 +2,9 @@
 .gradle
 /build/
 /bin/
-/.settings/
-.project
-.classpath
+
+.idea
+*.iml
 
 # Package Files
 *.jar
